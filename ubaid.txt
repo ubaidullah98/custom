@@ -1,2 +1,11 @@
 nsadnsaldasldmsaldm;mhello
+<<<<<<< HEAD
 heklllo world
+=======
+d;mdasdsa
+x,as'sa'dsa
+smsa;das
+smds;d
+dsa;d
+dmasdsa
+>>>>>>> 0d1bb84c1f44770319c09a24823ba0d286ccb395
